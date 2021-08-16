@@ -1,4 +1,4 @@
-# python learning
+# python learning session and Jenkins
 
 ## Installation
 run 'python install -r requirements.txt'
